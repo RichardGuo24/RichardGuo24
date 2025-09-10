@@ -7,7 +7,7 @@
 
 👩🏻‍💻 I'm a student interested in growing my understanding in building applications and artificial intelligence<br/>
 👩🏻‍🎓 Studying Computer Science at the Columbia University, New York City, NY<br/>
-💭 Currently learning about how the fundamentals of backend development!<br/>
+💭 Currently learning about the fundamentals of backend development!<br/>
 📫 Feel free to reach out!
   - rwg2125@columbia.edu
 
